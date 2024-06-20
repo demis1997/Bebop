@@ -1,11 +1,10 @@
 ---
-title: Blogpost 4
+title: Contest 4
 author: Elian Van Cutsem
 pubDate: 2023-02-15 12:00
 tags:
-  - Astro
+  - React
   - JavaScript
-  - Web Development
 description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
 imgUrl: '../../assets/astro.jpeg'
 layout: "../../layouts/BlogPost.astro"

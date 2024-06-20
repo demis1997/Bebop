@@ -3,9 +3,8 @@ title: Blogpost 5
 author: Elian Van Cutsem
 pubDate: 2023-02-19 18:37
 tags:
-  - Astro
-  - JavaScript
-  - Theme
+  - Python
+  - web3.py
 description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
 imgUrl: '../../assets/astro.jpeg'
 layout: "../../layouts/BlogPost.astro"
